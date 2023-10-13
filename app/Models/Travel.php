@@ -43,5 +43,7 @@ class Travel extends Model
         ];
     }
 
+  
    
   }
+
